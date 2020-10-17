@@ -1,0 +1,7 @@
+img {
+  display: block;
+  width: 200px;
+  margin: 0 auto 1rem;
+  transition: .5s;
+  transition-delay: .5s;
+}
